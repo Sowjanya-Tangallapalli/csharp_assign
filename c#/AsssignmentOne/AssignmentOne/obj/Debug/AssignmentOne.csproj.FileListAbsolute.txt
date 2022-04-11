@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\AssignmentOne.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\AssignmentOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Admin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Admin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Admin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Admin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Admin\source\repos\AsssignmentOne\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Admin\source\repos\AsssignmentOne\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Admin\source\repos\AsssignmentOne\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Admin\source\repos\AsssignmentOne\ConsoleApp3\obj\Debug\AssignmentOne.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AsssignmentOne\ConsoleApp3\obj\Debug\AssignmentOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\AsssignmentOne\ConsoleApp3\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AsssignmentOne\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Admin\source\repos\AsssignmentOne\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
