@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\ArrayOperations.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\ArrayOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\ArrayOperations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\bin\Debug\ArrayOperations.exe.config
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\bin\Debug\ArrayOperations.exe
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\bin\Debug\ArrayOperations.pdb
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\ArrayOperations.exe
+C:\Users\Admin\source\repos\ArrayOperations\ArrayOperations\obj\Debug\ArrayOperations.pdb
